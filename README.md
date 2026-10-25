@@ -1,5 +1,5 @@
 # ThreatLens
-![A promotional banner which says "ThreatLens"](https://github.com/ca25acg/ThreatLens/blob/main/static/images/ThreatLensPromotionalBanner.png?raw=true)
+![A promotional banner which says "ThreatLens"](https://github.com/robertrodrigu3z/ThreatLens/blob/main/static/images/ThreatLensPromotionalBanner.png?raw=true)
 <p align="center">Developed by Carl Asojo, Robert Rodriguez, and Jason Klutse</p>
 
 ## Overview
