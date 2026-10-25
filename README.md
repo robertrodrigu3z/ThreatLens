@@ -23,7 +23,7 @@ The front-end of this project uses Tailwind CSS and HTML, connecting to the back
 
 ## What's next for ThreatLens
 There's numerous components we'd like to implement into ThreatLens, including...
-- More ways to upload security log data, rather than jst CSV files (ex. JSON files, Linux logs)
+- More ways to upload security log data, rather than just CSV files (ex. JSON files, Linux logs)
 - Better AI optimization (ex. Gemini can be considerably slow at times for AI responses)
 - Implement Snowflake AI (some foundation has been set for Snowflake functionality)
 - Consider further website elements (ex. swapping between light-mode and dark-mode website)
