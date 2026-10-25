@@ -9,7 +9,7 @@ ThreatLens serves as a Security Operations Centre (SOC) dashboard for cybersecur
 ## Set-Up Instructions
 This project requires Git and Python 3.9+, with a Google Gemini API key being optional as a requirement for AI functionality.
 
-Move to the folder where you would like this project to be located, then run `git clone https://github.com/ca25acg/ThreatLens.git` and then `cd ThreatLens`. Then, install the required packages by running `py -m pip install -r requirements.txt` (Windows) or `python3 -m pip install -r requirements.txt` (macOS, Linux). If using the Google Gemini API key, run `cp .env.example .env` and then in .env, fill in your `GEMINI_API_KEY` (ex. `GEMINI_API_KEY=your_key_here`). You must use your own Gemini API key. Now, run the project using `py app.py` (Windows) or `python3 app.py` (macOS, Linux). You can then access http://127.0.0.1:5000 (or http://localhost:5000) to run this project locally.
+Move to the folder where you would like this project to be located, then run `git clone https://github.com/robertrodrigu3z/ThreatLens.git` and then `cd ThreatLens`. Then, install the required packages by running `py -m pip install -r requirements.txt` (Windows) or `python3 -m pip install -r requirements.txt` (macOS, Linux). If using the Google Gemini API key, run `cp .env.example .env` and then in .env, fill in your `GEMINI_API_KEY` (ex. `GEMINI_API_KEY=your_key_here`). You must use your own Gemini API key. Now, run the project using `py app.py` (Windows) or `python3 app.py` (macOS, Linux). You can then access http://127.0.0.1:5000 (or http://localhost:5000) to run this project locally.
 
 ## CSV Security Log Format
 Your CSV requires 4 columns:
