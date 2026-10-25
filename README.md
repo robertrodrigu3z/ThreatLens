@@ -20,3 +20,10 @@ Your CSV requires 4 columns:
 
 ## How we built it
 The front-end of this project uses Tailwind CSS and HTML, connecting to the back-end of this project developed using Python and Flask. Google Gemini API is sourced to explain information regarding the most severe cybersecurity events identified.
+
+## What's next for ThreatLens
+There's numerous components we'd like to implement into ThreatLens, including...
+- More ways to upload security log data, rather than jst CSV files (ex. JSON files, Linux logs)
+- Better AI optimization (ex. Gemini can be considerably slow at times for AI responses)
+- Implement Snowflake AI (some foundation has been set for Snowflake functionality)
+- Consider further website elements (ex. swapping between light-mode and dark-mode website)
