@@ -1,0 +1,9 @@
+# Use prebuilt packages where possible so nothing needs compiling (e.g. on Windows ARM).
+--prefer-binary
+
+flask>=3.0
+python-dotenv>=1.0
+google-genai>=1.0
+markdown>=3.5
+# No prebuilt Windows-on-ARM package exists, so skip it there (only snowflake_store.py needs it).
+snowflake-connector-python>=3.0; platform_machine != "ARM64"

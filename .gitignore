@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.env
+*.py[cod]
+
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+*.p8
+*.pem
+*.key
+rsa_key*
